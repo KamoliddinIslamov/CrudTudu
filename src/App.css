@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 95vh;
+    background-image: conic-gradient(rgb(0, 238, 255), rgb(31, 223, 47), rgb(9, 255, 0), rgb(253, 5, 46));
+}
